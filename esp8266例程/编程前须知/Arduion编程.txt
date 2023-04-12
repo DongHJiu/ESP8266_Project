@@ -1,0 +1,15 @@
+ESP8266:
+文件->首选项->附加开发板管理器网址：http://arduino.esp8266.com/stable/package_esp8266com_index.json      
+ESP32:
+文件->首选项->附加开发板管理器网址：https://dl.espressif.com/dl/package_esp32_index.json
+STM32:
+文件->首选项->附加开发板管理器网址：http://dan.drown.org/stm32duino/package_STM32duino_index.json
+STM32:
+文件->首选项->附加开发板管理器网址：https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json
+STM8:
+文件->首选项->附加开发板管理器网址：https://github.com/tenbaht/sduino/raw/master/package_sduino_stm8_index.json
+W806:
+文件->首选项->附加开发板管理器网址：https://cdn.jsdelivr.net/gh/Hi-LinkDuino/w80x_arduino/package_w80x_proxy_index.json
+
+工具->开发板->开发板管理器下载对应的芯片库
+工具->开发板->选择自己芯片对应的类型
